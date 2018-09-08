@@ -1,0 +1,59 @@
+/*headerスタイル*/
+.h-logo{
+  float: left;
+  padding: 2px 10px;
+  background-color: pink;
+}
+
+.h-list{
+  float: right;
+  padding: 5px;
+  background-color: lightgreen;
+}
+
+.h-list li{
+  float: left;
+  list-style: none;
+  padding: 5px;
+}
+
+.h-hiyoko{
+  clear:left;
+  width:100%;
+  height: auto;
+  max-height: 200px;
+  box-sizing:border-box;
+  text-align: center;
+  background-color: aqua;
+}
+
+.h-hiyoko img{
+  max-width:100%;
+  max-height: 200px;
+}
+
+/*newsスタイル*/
+
+/*contentsスタイル*/
+.contents{
+  width:100%;
+  background-color: pink
+}
+
+.c-div{
+  float: left;
+  width:33.3333333%;
+  text-align: center;
+  background-color: lightgreen
+}
+.c-div img{
+  width:100%;
+  height:100%;
+  max-width: 150px;
+  max-height: 150px;
+
+}
+/*mailスタイル*/
+.mail{
+  clear: left;
+}
